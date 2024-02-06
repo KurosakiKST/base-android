@@ -12,9 +12,9 @@ Make sure you have the following installed:
 - [Android Studio](https://developer.android.com/studio) (latest version recommended)
 - Android SDK with API level 29 or later
 
-### Clone the Repository
+### Clone the Repository with ssh
 
 ```bash
-git clone https://github.com/your-username/your-android-repository.git
+git clone git@github.com:KurosakiKST/base-android.git
 ```
 And start using it.
